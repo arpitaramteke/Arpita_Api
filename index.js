@@ -42,6 +42,7 @@ let PopularMovies = [
         "syncText": "Sign in to sync Watch List",
         "videoId" : "qGb5aKEYR8Q"
     },
+
     {
         "id": 2,
         "title": "STANGER THINGS",
@@ -69,6 +70,7 @@ let PopularMovies = [
         "syncText": "Sign in to sync Watch List",  
         "videoId" : "b9EkMc79ZSU"
     },
+    
     {
         "id": 3,
         "title": "JUJUTSU KAISEN",
@@ -946,12 +948,6 @@ let PopularMovies = [
         },
 
         {
-          "seasonNumber": 2,
-          "episodes": 8,
-          "posterImage": "https://www.justwatch.com/images/poster/302278475/s166/season-2.webp"
-        },
-
-        {
           "seasonNumber": 3,
           "episodes": 108,
           "posterImage": "https://www.justwatch.com/images/poster/8605717/s166/season-3.webp"
@@ -980,38 +976,12 @@ let PopularMovies = [
       ]
   },
 
-  {
-    "id": 31,
-    "title": "LOVE NEXT DOOR",
-    "year": 2024,
-    "rank": 67.,
-    "rankChange": "▲ +19",
-    "rating": 48,
-    "imdbrating": 8.0,
-    "imdbVotes": "2.4k",
-    "backdropImage": "https://images.justwatch.com/backdrop/319496696/s1440/moms-friends-son.webp/moms-friends-son.webp",
-    "posterImage": "https://0.soompi.io/wp-content/uploads/2024/09/02200901/love-next-door-1.jpg",
-    "duration": "1h 20min",
-    "highestRank": 7,
-    "top10Days": 1,
-    "top100Days": 33,
-    "top1000Days": 55,
-    "watchOptions": [
-  {"platform": "Netflix", "price": "Rs200/-"},
-  {"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-    "likes": "6.6k",
-    "dislikes": "458",
-    "watchlistText": "Lists",
-    "seenText": "Seen all",
-    "syncText": "Sign in to sync Watch List",
-    "videoId" : "C3TpiZndAOo"
-},
+
 {
   "id": 32,
   "title": "Gyeongseong Creature",
   "year": 2023,
-  "rank": 59.,
+  "rank": 59,
   "rankChange": "▲ +59",
   "rating": 75,
   "imdbRating": 7.3,
@@ -1065,7 +1035,7 @@ let PopularMovies = [
   "id": 34,
   "title": "THE GARDEN OF WORDS",
   "year": 2013,
-  "rank": "88%",
+  "rank": 88,
   "rankChange": "▲ +55",
   "rating": 45,
   "imdbRating": 7.5,
@@ -1098,7 +1068,7 @@ let PopularMovies = [
   "imdbRating": 8.8,
   "imdbVotes": "29k",
   "backdropImage": "https://images.justwatch.com/backdrop/307434339/s1440/college-romance.webp/college-romance.webp",
-  "posterImage": "https://i.pinimg.com/564x/d0/c1/e1/d0c1e10e7280d7be14a8eb0279fbed4a.jpg",
+  "posterImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202209/College_Romance_Season_3-Poster_1662391647.jpg",
   "duration": "31min",
   "highestRank": 1,
   "top10Days": 309,
@@ -1113,35 +1083,37 @@ let PopularMovies = [
   "watchlistText": "Lists",
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List",
-  "videoId" : "zwRhlzrJGxo"
+  "videoId" : "zwRhlzrJGxo",
+  "type": "series",
+  "seasons": [ // Add season details here
+    {
+      "seasonNumber": 1,
+      "episodes": 5,
+      "posterImage": "https://www.justwatch.com/images/poster/153922176/s166/season-1.webp"
+    },
+
+    {
+      "seasonNumber": 2,
+      "episodes": 5,
+      "posterImage": "https://www.justwatch.com/images/poster/241488605/s166/season-2.webp"
+    },
+
+    {
+      "seasonNumber": 3,
+      "episodes": 5,
+      "posterImage": "https://www.justwatch.com/images/poster/300726847/s166/season-3.webp"
+    },
+
+    {
+      "seasonNumber": 4,
+      "episodes": 5,
+      "posterImage": "https://www.justwatch.com/images/poster/307436638/s166/season-4.webp"
+    },
+  ]
+  
 },
-{
-  "id": 36,
-  "title": "HEIRS",
-  "year": 2017,
-  "rank": 45,
-  "rankChange": "▲ +12",
-  "rating": 45,
-  "imdbRating": 6.5,
-  "imdbVotes": "36k",
-  "backdropImage": "https://images.justwatch.com/backdrop/303444210/s1440/.webp.webp",
-  "posterImage": "https://i.pinimg.com/originals/ab/33/b9/ab33b9db9788da8f57f116a517fa713f.jpg",
-  "duration": "45min",
-  "highestRank": 8,
-  "top10Days": 45,
-  "top100Days": 458,
-  "top1000Days": 1231,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "458",
-  "dislikes": "92",
-  "watchlistText": "Lists",
-  "seenText": "Seen all",
-  "syncText": "Sign in to sync Watch List",
-  "videoId" : "Y0WSF5ikpvU"
-},
+
+
 {
   "id": 37,
   "title": "5 CENTIMETRE PER SECONDS",
@@ -1167,8 +1139,11 @@ let PopularMovies = [
   "watchlistText": "Watchlist",
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List",
-  "videoId" : "wdM7athAem0"
+  "videoId" : "wdM7athAem0",
+ 
 },
+
+
 {
   "id": 39,
   "title": "ALL OF US ARE DEAD",
@@ -1194,7 +1169,15 @@ let PopularMovies = [
   "watchlistText": "Lists",
   "seenText": "Seen ",
   "syncText": "Sign in to sync Watch List",
-  "videoId" : "IN5TD4VRcSM"
+  "videoId" : "IN5TD4VRcSM",
+  "type": "series",
+  "seasons": [ // Add season details here
+    {
+      "seasonNumber": 1,
+      "episodes": 5,
+      "posterImage": "https://www.justwatch.com/images/poster/277565481/s166/season-1.webp"
+    },
+  ]
 },
 {
   "id": 40,
