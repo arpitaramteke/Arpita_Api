@@ -915,7 +915,7 @@ let PopularMovies = [
       "imdbRating": 8.4,
       "imdbVotes": "134k",
       "backdropImage": "https://images.justwatch.com/backdrop/304968809/s1440/naruto.webp/naruto.webp",
-      "posterImage": "https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
+      "posterImage": "https://w0.peakpx.com/wallpaper/1021/130/HD-wallpaper-naruto-anime-kakashi-sakura-sasuke-shonen.jpg",
       "duration": "23min",
       "highestRank": 6,
       "top10Days": 25,
