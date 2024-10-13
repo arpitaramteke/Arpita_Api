@@ -68,7 +68,33 @@ let PopularMovies = [
         "watchlistText": "Lists",
         "seenText": "Seen",
         "syncText": "Sign in to sync Watch List",  
-        "videoId" : "b9EkMc79ZSU"
+        "videoId" : "b9EkMc79ZSU",
+        "type" : "series",
+        "seasons": [ // Add season details here
+          {
+            "seasonNumber": 1,
+            "episodes": 8,
+            "posterImage": "https://www.justwatch.com/images/poster/249313589/s166/season-1.webp"
+          },
+    
+          {
+            "seasonNumber": 2,
+            "episodes": 9,
+            "posterImage": "https://www.justwatch.com/images/poster/10828442/s166/season-2.webp"
+          },
+    
+          {
+            "seasonNumber": 3,
+            "episodes": 8,
+            "posterImage": "https://www.justwatch.com/images/poster/147403540/s166/season-3.webp"
+          },
+    
+          {
+            "seasonNumber": 4,
+            "episodes": 9,
+            "posterImage": "https://www.justwatch.com/images/poster/264470916/s166/season-4.webp"
+          },,
+        ]
     },
 
     {
@@ -96,7 +122,27 @@ let PopularMovies = [
         "watchlistText": "Lists",
         "seenText": "Seen",
         "syncText": "Sign in to sync Watch List",  
-        "videoId" : "Pm-wNmS9RGI"
+        "videoId" : "Pm-wNmS9RGI",
+        "type" : "series",
+        "seasons": [ // Add season details here
+          {
+            "seasonNumber": 1,
+            "episodes": 24,
+            "posterImage": "https://www.justwatch.com/images/poster/312146079/s166/season-1.webp"
+          },
+    
+          {
+            "seasonNumber": 2,
+            "episodes": 24,
+            "posterImage": "https://www.justwatch.com/images/poster/306336521/s166/season-2.webp"
+          },
+    
+          {
+            "seasonNumber": 3,
+            "episodes": 1,
+            "posterImage": "https://www.justwatch.com/images/poster/320955231/s166/season-3.webp"
+          },
+        ]
     },
     {
         "id": 4,
@@ -152,6 +198,7 @@ let PopularMovies = [
         "syncText": "Sign in to sync Watch List",
         "videoId" : "qXCxYfV6V6c"
     },
+
     {
         "id": 6,
         "title": "SANAM TERI KASAM",
@@ -711,7 +758,38 @@ let PopularMovies = [
         "watchlistText": "Lists",
         "seenText": "Seen all",
         "syncText": "Sign in to sync Watch List",
-        "videoId" : "VQGCKyvzIM4"
+        "videoId" : "VQGCKyvzIM4",
+        "seasons": [ // Add season details here
+          {
+            "seasonNumber": 1,
+            "episodes": 26,
+            "posterImage": "https://www.justwatch.com/images/poster/320272945/s166/season-1.webp"
+          },
+    
+          {
+            "seasonNumber": 2,
+            "episodes": 18,
+            "posterImage": "https://www.justwatch.com/images/poster/320272944/s166/season-2.webp"
+          },
+    
+          {
+            "seasonNumber": 3,
+            "episodes": 11,
+            "posterImage": "https://www.justwatch.com/images/poster/320272942/s166/season-3.webp"
+          },
+    
+          {
+            "seasonNumber": 4,
+            "episodes": 11,
+            "posterImage": "https://www.justwatch.com/images/poster/320272941/s166/season-4.webp"
+          },
+    
+          {
+            "seasonNumber": 5,
+            "episodes": 8,
+            "posterImage": "https://www.justwatch.com/images/poster/320272943/s166/season-5.webp"
+          },
+        ]
     },
     {
         "id": 25,
