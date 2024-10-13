@@ -70,7 +70,7 @@ let PopularMovies = [
         "syncText": "Sign in to sync Watch List",  
         "videoId" : "b9EkMc79ZSU"
     },
-    
+
     {
         "id": 3,
         "title": "JUJUTSU KAISEN",
@@ -976,63 +976,8 @@ let PopularMovies = [
       ]
   },
 
-
 {
-  "id": 32,
-  "title": "Gyeongseong Creature",
-  "year": 2023,
-  "rank": 59,
-  "rankChange": "▲ +59",
-  "rating": 75,
-  "imdbRating": 7.3,
-  "imdbVotes": "13k",
-  "backdropImage": "https://images.justwatch.com/backdrop/309788226/s1440/gyeongseong-creature.webp/gyeongseong-creature.webp",
-  "posterImage": "https://m.media-amazon.com/images/M/MV5BMWI1N2I5ZGQtNTFkMC00MjIxLTgxNTQtZTgzNDU2YjhkN2JkXkEyXkFqcGc@._V1_.jpg",
-  "duration": "1h 1min",
-  "highestRank": 0,
-  "top10Days": 7,
-  "top100Days": 25,
-  "top1000Days": 245,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "1k",
-  "dislikes": "52",
-  "watchlistText": "Lists",
-  "seenText": "Seen all",
-  "syncText": "Sign in to sync Watch List",
-  "videoId" : "Q3YgWMxaq8o"
-},
-{
-  "id": 33,
-  "title": "HIDDEN LOVE",
-  "year": 2023,
-  "rank": 112,
-  "rankChange": "▲ +78",
-  "rating": 61,
-  "imdbrating": 5.0,
-  "imdbVotes": "1k",
-  "backdropImage": "https://images.justwatch.com/backdrop/306853997/s1440/hidden-love.webp/hidden-love.webp",
-  "posterImage": "https://m.media-amazon.com/images/M/MV5BZTc3MmQ1YjctYWM4YS00YzFmLTg2YjQtNjEzODQ5ZWVjZjVmXkEyXkFqcGc@._V1_.jpg",
-  "duration": "45min",
-  "highestRank": 3,
-  "top10Days": 3,
-  "top100Days": 79,
-  "top1000Days": 469,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "6k",
-  "dislikes": "682",
-  "watchlistText": "Lists",
-  "seenText": "Seen all",
-  "syncText": "Sign in to sync Watch List",
-  "videoId" : "SDdbyi6B-IQ"
-},
-{
-  "id": 34,
+  "id": 31,
   "title": "THE GARDEN OF WORDS",
   "year": 2013,
   "rank": 88,
@@ -1058,8 +1003,10 @@ let PopularMovies = [
   "syncText": "Sign in to sync Watch List",
   "videoId" : "2IlccH4VzQ4"
 },
+
+
 {
-  "id": 35,
+  "id": 32,
   "title": "COLLEGE ROMANCE",
   "year": 2018,
   "rank": 126.,
@@ -1115,7 +1062,7 @@ let PopularMovies = [
 
 
 {
-  "id": 37,
+  "id": 33,
   "title": "5 CENTIMETRE PER SECONDS",
   "year": 2007,
   "rank": 45,
@@ -1145,7 +1092,7 @@ let PopularMovies = [
 
 
 {
-  "id": 39,
+  "id": 34,
   "title": "ALL OF US ARE DEAD",
   "year": 2022,
   "rank": 177,
@@ -1180,7 +1127,7 @@ let PopularMovies = [
   ]
 },
 {
-  "id": 40,
+  "id": 45,
   "title": "SILENT VOICE",
   "year": 2016,
   "rank": 81.,
