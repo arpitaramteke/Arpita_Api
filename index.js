@@ -45,7 +45,7 @@ let PopularMovies = [
 
     {
         "id": 2,
-        "title": "STANGER THINGS",
+        "title": "STRANGER THINGS",
         "year": 2016,
         "rank": 82,
         "rankChange": "▲ +67",
