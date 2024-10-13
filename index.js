@@ -94,7 +94,7 @@ let PopularMovies = [
             "episodes": 9,
             "posterImage": "https://www.justwatch.com/images/poster/264470916/s166/season-4.webp"
           },
-          
+
         ]
     },
 
@@ -760,6 +760,7 @@ let PopularMovies = [
         "seenText": "Seen all",
         "syncText": "Sign in to sync Watch List",
         "videoId" : "VQGCKyvzIM4",
+        "type" : "series",
         "seasons": [ // Add season details here
           {
             "seasonNumber": 1,
