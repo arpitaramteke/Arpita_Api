@@ -1032,7 +1032,7 @@ let PopularMovies = [
         "imdbRating": 6.5,
         "imdbVotes": "146k",
         "backdropImage": "https://images.justwatch.com/backdrop/305192753/s1440/evil-dead-rise.webp/evil-dead-rise.webp",
-        "posterImage": "https://xl.movieposterdb.com/23_04/2023/13345606/xl_evil-dead-rise-movie-poster_eed93b9a.jpg",
+        "posterImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/movie/v/k/r/2023-dvd-flt-films-english-evil-dead-rise-2023-in-english-play-original-imagpnke3bexpr2h.jpeg?q=90&crop=false",
         "duration": "1h 36min",
         "highestRank": 3,
         "top10Days": 12,
