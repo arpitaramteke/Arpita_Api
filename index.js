@@ -802,7 +802,7 @@ let PopularMovies = [
         "imdbRating": 7.7,
         "imdbVotes": "102k",
         "backdropImage": "https://images.justwatch.com/backdrop/239548970/s1440/alice-in-borderland.webp/alice-in-borderland.webp",
-        "posterImage": "https://c8.alamy.com/comp/2NT31X7/alice-in-borderland-poster-2NT31X7.jpg",
+        "posterImage": "https://e1.pxfuel.com/desktop-wallpaper/942/291/desktop-wallpaper-alice-in-borderland-thumbnail.jpg",
         "duration": "54min",
         "highestRank": 4,
         "top10Days": 14,
@@ -817,8 +817,24 @@ let PopularMovies = [
         "watchlistText": "Lists",
         "seenText": "Seen all",
         "syncText": "Sign in to sync Watch List", 
-        "videoId" : "49_44FFKZ1M"
+        "videoId" : "49_44FFKZ1M",
+        "type" : "series",
+        "seasons": [ // Add season details here
+          {
+            "seasonNumber": 1,
+            "episodes": 8,
+            "posterImage": "https://www.justwatch.com/images/poster/302278527/s166/season-1.webp"
+          },
+      
+          {
+            "seasonNumber": 2,
+            "episodes": 8,
+            "posterImage": "https://www.justwatch.com/images/poster/302278475/s166/season-2.webp"
+          },
+      
+        ]
     },
+
     {
         "id": 28,
         "title": "DARLING IN THE FRANXX",
