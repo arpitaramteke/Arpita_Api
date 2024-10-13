@@ -14,7 +14,7 @@ app.use(cors({
     allowedHeaders: "Content-Type",
 }));
 
-let myMovies = [
+let PopularMovies = [
     {
         "id": 1,
         "title": "MUNJYA",
@@ -25,7 +25,7 @@ let myMovies = [
         "imdbRating": 6.5,
         "imdbVotes": "21k",
         "backdropImage": "https://images.justwatch.com/backdrop/317639257/s1440/munjha.webp/munjha.webp",
-        "posterImage": "https://m.media-amazon.com/images/M/MV5BM2ZkNzRhNDMtNDkzOS00Zjk1LTllZGQtNjIyYTMxNjg1YzkzXkEyXkFqcGc@._V1_QL75_UX480_.jpg",
+        "posterImage": "https://wallpapercave.com/wp/wp14067165.jpg",
         "duration": "2h 3min",
         "highestRank": 1,
         "top10Days": 97,
@@ -52,7 +52,7 @@ let myMovies = [
         "imdbRating": 8.7,
         "imdbVotes": "1m",
         "backdropImage": "https://images.justwatch.com/backdrop/102141616/s1440/stranger-things.webp/stranger-things.webp",
-        "posterImage": "https://rukminim2.flixcart.com/image/850/1000/jr3t5e80/poster/a/w/f/medium-stranger-things-poster-for-room-office-13-inch-x-19-inch-original-imafcww8v99r4qhh.jpeg?q=20&crop=false",
+        "posterImage": "https://rukminim2.flixcart.com/image/850/1000/jr0y9ow0/poster/r/g/e/medium-stranger-things-poster-for-room-office-13-inch-x-19-inch-original-imafcwvzakgs3c5v.jpeg?q=90&crop=false",
         "duration": "1h 1min",
         "highestRank": 1,
         "top10Days": 228,
@@ -65,7 +65,7 @@ let myMovies = [
         "likes": "79k",
         "dislikes": "3.6",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List",  
         "videoId" : "b9EkMc79ZSU"
     },
@@ -92,7 +92,7 @@ let myMovies = [
         "likes": "7.5K",
         "dislikes": "511",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List",  
         "videoId" : "Pm-wNmS9RGI"
     },
@@ -105,8 +105,8 @@ let myMovies = [
         "rating": 15,
         "imdbRating": 7.6,
         "imdbVotes": "25K",
-        "backdropImage": "https://images.justwatch.com/backdrop/319090905/s1440/stree-2.webp/stree-2.webp",
-        "posterImage": "https://cdn.cinematerial.com/p/297x/suglhbwb/stree-2-indian-movie-poster-md.jpg?v=1721223530",
+        "backdropImage": "https://assets-in.bmscdn.com/discovery-catalog/events/et00364249-qbqdytudsg-landscape.jpg",
+        "posterImage": "https://assetscdn1.paytm.com/images/cinema/Stree21-min-f4ac2e40-4389-11ef-83ec-5d141d381675.jpg",
         "duration": "2h 27min",
         "highestRank": 1,
         "top10Days": 228,
@@ -119,7 +119,7 @@ let myMovies = [
         "likes": "79k",
         "dislikes": "3.6",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "hrNF3Qerxrk"
     },
@@ -136,9 +136,9 @@ let myMovies = [
         "posterImage": "https://i.pinimg.com/736x/4e/70/9c/4e709c0df244780689bb3ab3d0373b06.jpg",
         "duration": "53min",
         "highestRank": 14,
-        "top10Days": "0 Days",
-        "top100Days": "286 Days",
-        "top1000Days": "1342 Days",
+        "top10Days": 0,
+        "top100Days": 286,
+        "top1000Days": 1342,
         "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
@@ -146,7 +146,7 @@ let myMovies = [
         "likes": "79k",
         "dislikes": "3.6",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List",
         "videoId" : "qXCxYfV6V6c"
     },
@@ -173,7 +173,7 @@ let myMovies = [
         "likes": "118k",
         "dislikes": "37",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "_7L9F99K-kM"
     },
@@ -187,7 +187,7 @@ let myMovies = [
         "imdbRating": 8.1,
         "imdbVotes": "383K",
         "backdropImage": "https://images.justwatch.com/backdrop/301994024/s1440/wednesday.webp/wednesday.webp",
-        "posterImage": "https://c4.wallpaperflare.com/wallpaper/462/216/45/movies-dark-wednesday-addams-wednesday-tv-series-movie-poster-hd-wallpaper-preview.jpg",
+        "posterImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/b/1/l/large-wednesday-poster-for-wall-home-office-decoration-posters-original-imagn38htdpyunqe.jpeg?q=90&crop=false",
         "duration": "29min",
         "highestRank": 1,
         "top10Days": 107,
@@ -200,7 +200,7 @@ let myMovies = [
         "likes": "44k",
         "dislikes": "2.2",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "DwvQLVAxiKY"
     },
@@ -227,7 +227,7 @@ let myMovies = [
         "likes": "30k",
         "dislikes": "536",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "e7lvpm13ZN0"
     },
@@ -241,7 +241,7 @@ let myMovies = [
         "imdbRating": 8.4,
         "imdbVotes": "334K",
         "backdropImage": "https://images.justwatch.com/backdrop/56668328/s1440/your-name.webp/your-name.webp",
-        "posterImage": "https://wallpapers.com/images/hd/makoto-shinkai-your-name-poster-yd4rjkxb6z58fxgs.jpg",
+        "posterImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/1/f/p/your-name-the-official-visual-guide-original-imahy5knsetkjzxe.jpeg?q=90&crop=false",
         "duration": "1h 49min",
         "highestRank": 1,
         "top10Days": 228,
@@ -254,7 +254,7 @@ let myMovies = [
         "likes": "30k",
         "dislikes": "382",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "_oWzYOwXn-o"
     },
@@ -268,7 +268,7 @@ let myMovies = [
         "imdbRating": 7.6,
         "imdbVotes": "46K",
         "backdropImage": "https://images.justwatch.com/backdrop/306324717/s1440/suzume-no-tojimari.webp/suzume-no-tojimari.webp",
-        "posterImage": "https://m.media-amazon.com/images/M/MV5BODhkNDhmNzktODFmMC00NDZiLWEzN2UtY2YwYzgzYTVlMWZmXkEyXkFqcGc@._V1_.jpg",
+        "posterImage": "https://m.media-amazon.com/images/I/71riN5eCekL.jpg",
         "duration": "2h 1min",
         "highestRank": 2,
         "top10Days": 245,
@@ -281,10 +281,11 @@ let myMovies = [
         "likes": "2k",
         "dislikes": "263",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "ciQc8lfvSm0",
     },
+
     {
         "id": 11,
         "title": "MONEY HEIST",
@@ -308,10 +309,11 @@ let myMovies = [
         "likes": "40k",
         "dislikes": "2.7k",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "8QkyLqmJCMM",
     },
+
     {
         "id": 12,
         "title": "TUMBBAD",
@@ -335,10 +337,11 @@ let myMovies = [
         "likes": "18k",
         "dislikes": "3.5k",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List",
         "videoId" : "YGIcZrUBY0k",
     },
+
     {
         "id": 13,
         "title": "PUT YOUR HEAD ON MY SHOULDER",
@@ -349,7 +352,7 @@ let myMovies = [
         "imdbRating": 8.0,
         "imdbVotes": "3.4k",
         "backdropImage": "https://images.justwatch.com/backdrop/150332384/s1440/put-your-head-on-my-shoulder.webp/put-your-head-on-my-shoulder.webp",
-        "posterImage": "https://wallpapercave.com/wp/wp4935200.jpg",
+        "posterImage": "https://image.tmdb.org/t/p/original/zVYvodC12ZHGVPHX8LJjZHDERmK.jpg",
         "duration": "41min",
         "highestRank": 51,
         "top10Days":  10,
@@ -362,10 +365,12 @@ let myMovies = [
         "likes": "5k",
         "dislikes": "34",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "HMLeGMSeJVM"
     },
+
+
     {
         "id": 14,
         "title": "LAILA MAJNU",
@@ -389,10 +394,11 @@ let myMovies = [
         "likes": "55k",
         "dislikes": "358",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "Cv-6cAHanZ8"
     },
+
     {
         "id": 15,
         "title": "ATTACK ON TITAN",
@@ -416,10 +422,12 @@ let myMovies = [
         "likes": "17k",
         "dislikes": "1.6k",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "LV-nazLVmgo"
     },
+
+
     {
         "id": 16,
         "title": "ANIMAL",
@@ -443,10 +451,11 @@ let myMovies = [
         "likes": "12k",
         "dislikes": "152",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "Dydmpfo68DA"
     },
+
     {
         "id": 17,
         "title": "LOVE IS SWEET",
@@ -470,10 +479,11 @@ let myMovies = [
         "likes": "10k",
         "dislikes": "1.1k",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List",
         "videoId" : "44SPxWJ9Rno" 
     },
+
     {
         "id": 18,
         "title": "THE CONJURING",
@@ -497,10 +507,12 @@ let myMovies = [
         "likes": "17k",
         "dislikes": "1.1k",
         "watchlistText": "WatchLists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "ejMMn0t58Lc"
     },
+
+
     {
         "id": 19,
         "title": "THE KISSING BOOTH",
@@ -524,10 +536,11 @@ let myMovies = [
         "likes": "4.7k",
         "dislikes": "1.5k",
         "watchlistText": "WatchLists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List",
         "videoId" : "7bfS6seiLhk"
     },
+    
     {
         "id": 20,
         "title": "MY GIRLFRIEND IS AN ALIAN",
@@ -551,10 +564,12 @@ let myMovies = [
         "likes": "4k",
         "dislikes": "35",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
         "videoId" : "m21MWq6wb9Y"
     },
+
+    
     {
         "id": 21,
         "title": "SHAITAAN",
@@ -578,10 +593,11 @@ let myMovies = [
         "likes": "990",
         "dislikes": "112",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List",
         "videoId" : "upDhKSx7P7E"
     },
+
     {
         "id": 22,
         "title": "Bad Newz",
@@ -592,7 +608,7 @@ let myMovies = [
         "imdbRating": 5.1,
         "imdbVotes": "25k",
         "backdropImage": "https://images.justwatch.com/backdrop/321215960/s1440/untitled-vicky-kaushal-prime-video-project.webp/untitled-vicky-kaushal-prime-video-project.webp",
-        "posterImage": "https://i.redd.it/posters-of-bad-newz-v0-0343zk5ao4pc1.jpg?width=1290&format=pjpg&auto=webp&s=e452143fc253c376c29205b1b3ae43afb4cf8443",
+        "posterImage": "https://www.prabhatkhabar.com/wp-content/uploads/2024/07/IMG_5778-716x1024.jpeg",
         "duration": "2h 20min",
         "highestRank": 3,
         "top10Days": 9,
@@ -605,7 +621,7 @@ let myMovies = [
         "likes": "1.5k",
         "dislikes": "203",
         "watchlistText": "Lists",
-        "seenText": "Seen all",
+        "seenText": "Seen",
         "syncText": "Sign in to sync Watch List", 
          "videoId" : "uV50UfcIT68"
     },
@@ -1101,22 +1117,23 @@ let myMovies = [
 // Find movie by title
 app.get('/api/Popular-movies', (req, res) => {
     const titleQuery = req.query.title ? req.query.title.toLowerCase() : null;
+    console.log("Search title:", titleQuery);
     if (titleQuery) {
-        const movieByTitle = myMovies.find(movie => movie.title.toLowerCase() === titleQuery);
+        const movieByTitle = PopularMovies.find(movie => movie.title.toLowerCase() === titleQuery);
         if (movieByTitle) {
             return res.json(movieByTitle);
         } else {
             return res.status(404).json({ message: "Movie not found by Title" });
         }
     } else {
-        return res.json(myMovies);
+        return res.json(PopularMovies);
     }
 });
 
 // Find movie by ID
 app.get('/api/Popular-movies/:id', (req, res) => {
     const id = req.params.id;
-    const movie = myMovies.find(movie => movie.id === parseInt(id));
+    const movie = PopularMovies.find(movie => movie.id === parseInt(id));
     if (!movie) {
         return res.status(404).json({ message: "Movie not found by ID" });
     }
@@ -1124,8 +1141,8 @@ app.get('/api/Popular-movies/:id', (req, res) => {
 });
 
 // For creating data
-app.post('/api/MyMovies', (req, res) => {
-    const newMovies = { ...req.body, id: myMovies.length + 1 };
+app.post('/api/MyPopularMovies', (req, res) => {
+    const newMovies = { ...req.body, id: PopularMovies.length + 1 };
     myMovies.push(newMovies);
     res.status(201).location(`/api/MyMovies/${newMovies.id}`).json(newMovies);
 });
