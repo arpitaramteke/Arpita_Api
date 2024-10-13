@@ -860,37 +860,26 @@ let PopularMovies = [
         "watchlistText": "Lists",
         "seenText": "Seen all",
         "syncText": "Sign in to sync Watch List",
-        "videoId" : "xiNeXCUosSg"
+        "videoId" : "xiNeXCUosSg",
+        "type" : "series",
+        "seasons": [ // Add season details here
+          {
+            "seasonNumber": 1,
+            "episodes": 13,
+            "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAikiNq4ov7QAAqD04wi8nqoeZ1_niblCjqQ&s"
+          },
+
+          {
+            "seasonNumber": 2,
+            "episodes": 13,
+            "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8IXqeK0YrXMTObRnH46INl4doEGvFmUSQg&s"
+          }
+        ]
     },
+    
+
     {
         "id": 29,
-        "title": "INDORI ISHQ",
-        "year": 2021,
-        "rank": 45,
-        "rankChange": "▲ +451",
-        "rating": 82,
-        "imdbRating": 6.9,
-        "imdbVotes": "4.3k",
-        "backdropImage": "https://images.justwatch.com/backdrop/246833725/s1440/indori-ishq.webp/indori-ishq.webp",
-        "posterImage": "https://m.media-amazon.com/images/M/MV5BZjJlMTNiYjItMTgxYy00YjRlLTg0NGItYjY1MWNlMGZhNWNmXkEyXkFqcGc@._V1_.jpg",
-        "duration": "29min",
-        "highestRank": 5,
-        "top10Days": 425,
-        "top100Days": 1451,
-        "top1000Days": 2524,
-        "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-        "likes": "4k",
-        "dislikes": "35",
-        "watchlistText": "Lists",
-        "seenText": "Seen all",
-        "syncText": "Sign in to sync Watch List", 
-         "videoId" : "SPDL_1e4160"
-    },
-    {
-        "id": 30,
         "title": "EVIL DEAD RISE",
         "year": 2023,
         "rank": 78,
@@ -917,7 +906,7 @@ let PopularMovies = [
         "videoId" : "smTK_AeAPHs"
     },
     {
-      "id": 31,
+      "id": 30,
       "title": "NARUTO",
       "year": 2002,
       "rank": 34,
@@ -941,10 +930,58 @@ let PopularMovies = [
       "watchlistText": "Lists",
       "seenText": "Seen all",
       "syncText": "Sign in to sync Watch List",
-      "videoId" : "-G9BqkgZXRA"
+      "videoId" : "-G9BqkgZXRA",
+      "type": "series",
+      "seasons": [ // Add season details here
+        {
+          "seasonNumber": 1,
+          "episodes": 220,
+          "posterImage": "https://www.justwatch.com/images/poster/301262497/s166/season-1.webp"
+        },
+    
+        {
+          "seasonNumber": 2,
+          "episodes": 104,
+          "posterImage": "https://www.justwatch.com/images/poster/280619753/s166/season-2.webp"
+        },
+
+        {
+          "seasonNumber": 2,
+          "episodes": 8,
+          "posterImage": "https://www.justwatch.com/images/poster/302278475/s166/season-2.webp"
+        },
+
+        {
+          "seasonNumber": 3,
+          "episodes": 108,
+          "posterImage": "https://www.justwatch.com/images/poster/8605717/s166/season-3.webp"
+        },
+
+        {
+          "seasonNumber": 4,
+          "episodes": 124,
+          "posterImage": "https://www.justwatch.com/images/poster/8605715/s166/season-4.webp"
+        },
+
+        {
+          "seasonNumber": 5,
+          "episodes": 220,
+          "posterImage": "https://www.justwatch.com/images/poster/734764/s166/season-5.webp"
+        },
+
+        {
+          "seasonNumber": 6,
+          "episodes": 50,
+          "posterImage": "https://www.justwatch.com/images/poster/6499522/s166/season-6.webp"
+        },
+
+
+    
+      ]
   },
+
   {
-    "id": 32,
+    "id": 31,
     "title": "LOVE NEXT DOOR",
     "year": 2024,
     "rank": 67.,
@@ -971,7 +1008,7 @@ let PopularMovies = [
     "videoId" : "C3TpiZndAOo"
 },
 {
-  "id": 33,
+  "id": 32,
   "title": "Gyeongseong Creature",
   "year": 2023,
   "rank": 59.,
@@ -998,7 +1035,7 @@ let PopularMovies = [
   "videoId" : "Q3YgWMxaq8o"
 },
 {
-  "id": 34,
+  "id": 33,
   "title": "HIDDEN LOVE",
   "year": 2023,
   "rank": 112,
@@ -1025,7 +1062,7 @@ let PopularMovies = [
   "videoId" : "SDdbyi6B-IQ"
 },
 {
-  "id": 35,
+  "id": 34,
   "title": "THE GARDEN OF WORDS",
   "year": 2013,
   "rank": "88%",
@@ -1052,7 +1089,7 @@ let PopularMovies = [
   "videoId" : "2IlccH4VzQ4"
 },
 {
-  "id": 36,
+  "id": 35,
   "title": "COLLEGE ROMANCE",
   "year": 2018,
   "rank": 126.,
@@ -1079,7 +1116,7 @@ let PopularMovies = [
   "videoId" : "zwRhlzrJGxo"
 },
 {
-  "id": 37,
+  "id": 36,
   "title": "HEIRS",
   "year": 2017,
   "rank": 45,
@@ -1106,7 +1143,7 @@ let PopularMovies = [
   "videoId" : "Y0WSF5ikpvU"
 },
 {
-  "id": 38,
+  "id": 37,
   "title": "5 CENTIMETRE PER SECONDS",
   "year": 2007,
   "rank": 45,
