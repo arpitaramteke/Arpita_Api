@@ -764,7 +764,39 @@ let PopularMovies = [
         "watchlistText": "Lists",
         "seenText": "Seen all",
         "syncText": "Sign in to sync Watch List", 
-        "videoId" : "NkdCgjqQq7s"
+        "videoId" : "NkdCgjqQq7s",
+        "type": "series",
+        "seasons": [ // Add season details here
+              {
+                "seasonNumber": 1,
+                "episodes": 13,
+                "posterImage": "https://www.justwatch.com/images/poster/270389468/s166/season-1.webp"
+              },
+        
+              {
+                "seasonNumber": 2,
+                "episodes": 9,
+                "posterImage": "https://www.justwatch.com/images/poster/281065948/s166/season-2.webp"
+              },
+        
+              {
+                "seasonNumber": 3,
+                "episodes": 8,
+                "posterImage": "https://www.justwatch.com/images/poster/281066199/s166/season-3.webp"
+              },
+        
+              {
+                "seasonNumber": 4,
+                "episodes": 8,
+                "posterImage": "https://www.justwatch.com/images/poster/270389906/s166/season-4.webp"
+              },
+        
+              {
+                "seasonNumber": 5,
+                "episodes": 10,
+                "posterImage": "https://www.justwatch.com/images/poster/281044992/s166/season-5.webp"
+              },
+            ]
     },
     {
         "id": 27,
