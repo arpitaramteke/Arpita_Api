@@ -1431,6 +1431,36 @@ let PopularMovies = [
   "videoId" : "nfK6UgLra7g"
 },
 
+{
+  "id":41,
+  "title": "Chandu Champion",
+  "year": 2024,
+  "rank":688,
+  "rankChange": "▲ +600",
+  "rating": 71,
+  "imdbRating": 7.9,
+  "imdbVotes": "2m",
+  "backdropImage": "https://images.justwatch.com/backdrop/319469589/s1440/chandu-champion.webp/chandu-champion.webp",
+  "posterImage": "https://upload.wikimedia.org/wikipedia/hi/archive/d/df/20240918230235%21Chandu_Champion_film_poster.jpeg",
+  "duration": "2h 2min",
+  "highestRank": 2,
+  "top10Days": 13,
+  "top100Days":666,
+  "top1000Days": 113,
+  "watchOptions": [
+    {"platform": "Netflix", "price": "Rs200/-"},
+    {"platform": "Amazon Prime", "price": "Rs500/-"}
+  ],
+  "likes": "96",
+  "dislikes": "26",
+  "watchlistText": "Watchlist",
+  "seenText": "Seen",
+  "syncText": "Sign in to Sync Watchlist",
+  "videoId": "IHQQK_Wn5DM",
+  "type": "bollywood",
+  "genre": ["Sports", "War & Military", "Action & Adventure", "Drama", "History"]
+},
+
  
 ];
 
