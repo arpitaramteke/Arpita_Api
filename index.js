@@ -1292,7 +1292,6 @@ let PopularMovies = [
   "dislikes": "45",
   "watchlistText": "Watchlist",
   "seenText": "Seen",
-
   "syncText": "Sign in to sync Watch List",
   "videoId" : "nfK6UgLra7g"
 },
@@ -1431,6 +1430,8 @@ let PopularMovies = [
   "syncText": "Sign in to sync Watch List",
   "videoId" : "nfK6UgLra7g"
 },
+
+ 
 ];
 
 // Find movie by title
@@ -1470,3 +1471,4 @@ app.post('/api/MyPopularMovies', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
+
