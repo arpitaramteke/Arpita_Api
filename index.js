@@ -1464,12 +1464,10 @@ let PopularMovies = [
   "type": "bollywood",
   "genre": ["Sports", "War & Military", "Action & Adventure", "Drama", "History"]
 },
-
- 
  
 {
  
-  "id":76,
+  "id":42,
   "title": "War",
   "year": 2019,
   "rank":856,
