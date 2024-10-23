@@ -1295,6 +1295,7 @@ let PopularMovies = [
   "syncText": "Sign in to sync Watch List",
   "videoId" : "nfK6UgLra7g"
 },
+
 {
   "id": 36,
   "title": "SMILE",
@@ -1322,6 +1323,7 @@ let PopularMovies = [
   "syncText": "Sign in to sync Watch List",
   "videoId" : ""
 },
+
 {
   "id": 37,
   "title": "wEATHERING WITH YOU",
@@ -1349,6 +1351,7 @@ let PopularMovies = [
   "syncText": "Sign in to sync Watch List",
   "videoId" : "nfK6UgLra7g"
 },
+
 {
   "id": 38,
   "title": "KGF:CHAPTER1",
@@ -1463,6 +1466,37 @@ let PopularMovies = [
 },
 
  
+ 
+{
+ 
+  "id":76,
+  "title": "War",
+  "year": 2019,
+  "rank":856,
+  "rankChange": "▲ +477",
+  "rating": 70,
+  "imdbRating": 7.8,
+  "imdbVotes": "40k",
+  "backdropImage": "https://www.justwatch.com/images/backdrop/151180234/s1440/war-2019.webp/war-2019.webp",
+  "posterImage": "https://lh5.googleusercontent.com/proxy/lU778sl4j3OGp8BzgJV9oX32tIAsJDh-FoNhV_AzIcJhRTgROfY8XHrNcZw2o7sMDHvxU6kGNiDa0Fg-gxabYmdDWaut3SwuwEbpX-GQ9cGmw0BeqWIxF8SZwqqXEL5fack679AG306sz-B5dNc5Thhjy2lZhXm-R1Qs65Bw",
+  "duration": "2h 32min",
+  "highestRank": 1,
+  "top10Days": 10,
+  "top100Days":159,
+  "top1000Days": 1424,
+  "watchOptions": [
+    {"platform": "Apple Tv+", "price": "Rs1500/-"},
+    {"platform": "Amazon Prime", "price": "Rs500/-"}
+  ],
+  "likes": "481",
+  "dislikes": "61",
+  "watchlistText": "Watchlist",
+  "seenText": "Seen",
+  "syncText": "Sign in to Sync Watchlist",
+  "videoId": "tQ0mzXRk",
+  "type" : "bollywood",
+  "genre": ["Mystery & Thriller", "Action & Adventure"]
+},
 ];
 
 // Find movie by title
